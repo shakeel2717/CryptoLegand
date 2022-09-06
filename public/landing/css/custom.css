@@ -1,0 +1,7 @@
+.bg-theme-word {
+    background-image: url(/assets/img/cover/cover-thumb-1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
