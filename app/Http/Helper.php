@@ -926,7 +926,7 @@ function userWillGetRoi($user_id)
 function OnlineUserCheck()
 {
     $OnlineUsers = OnlineUser::where('updated_at', '>', Carbon::now()->subMinutes(10))->get();
-    return $OnlineUsers->count() + 90;
+    return $OnlineUsers->count();
 }
 
 

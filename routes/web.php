@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\InDirectCommissionStatementController;
 use App\Http\Controllers\landing\LandingController;
+use App\Http\Controllers\PerfectMoneyController;
 use App\Http\Controllers\RefundController;
 use App\Http\Controllers\user\ActivePlanController;
 use App\Http\Controllers\user\SupportController;
@@ -87,12 +88,13 @@ Route::prefix('user/dashboard')->name('user.')->middleware(['auth', 'user'])->gr
 Route::get('/refund/{user}/{tid}', [RefundController::class, 'index'])->name('refund.request.confirm');
 
 // group route
-Route::prefix('payment')->group(function () {
-    Route::post('/webhook', [CoinPaymentController::class, 'webhook'])->name('webhook');
+Route::prefix('payment')->name('payment.')->group(function () {
+    Route::post('/success', [PerfectMoneyController::class, 'success'])->name('success');
+    Route::post('/failed', [PerfectMoneyController::class, 'failed'])->name('failed');
 });
 
 
-Route::view('qr','user.dashboard.deposit.qr');
+Route::view('qr', 'user.dashboard.deposit.qr');
 
 
 require __DIR__ . '/auth.php';
