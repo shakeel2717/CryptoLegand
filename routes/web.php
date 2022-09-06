@@ -91,6 +91,7 @@ Route::get('/refund/{user}/{tid}', [RefundController::class, 'index'])->name('re
 Route::prefix('payment')->name('payment.')->group(function () {
     Route::post('/success', [PerfectMoneyController::class, 'success'])->name('success');
     Route::post('/failed', [PerfectMoneyController::class, 'failed'])->name('failed');
+    Route::post('/webhook', [CoinPaymentController::class, 'webhook'])->name('webhook');
 });
 
 
