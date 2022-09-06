@@ -26,8 +26,8 @@
                     <div class="header-con">
                         <nav class="navbar navbar-expand-lg navbar-light p-0">
                             <a class="navbar-brand p-0" href="index.html">
-                                <img src="{{ asset('assets/brand/logo-light.png') }}" alt="logo-img"
-                                    class="img-fluid w-75">
+                                <img src="{{ asset('assets/logo.svg') }}" alt="logo-img"
+                                    class="img-fluid w-100">
                             </a>
                             <button class="navbar-toggler p-0 collapsed" type="button" data-toggle="collapse"
                                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -117,7 +117,7 @@
                             <div class="weight-footer-item weight-footer-item1 mb-lg-0 mb-3">
                                 <div class="weight-footer-item-img">
                                     <figure>
-                                        <img src="{{ asset('assets/brand/logo-light.png') }}" alt="logo-img"
+                                        <img src="{{ asset('assets/logo.svg') }}" alt="logo-img"
                                             class="img-fluid">
                                     </figure>
                                 </div>
