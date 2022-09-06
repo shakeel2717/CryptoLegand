@@ -1,5 +1,5 @@
 @extends('errors.layout.app')
-@section('title', '404')
+@section('title', '503')
 @section('content')
     <div class="error-page">
         <!-- BEGIN error-page-content -->
@@ -24,11 +24,7 @@
                 </div>
             </div>
             <h1>Website Under Maintenance!</h1>
-            <h3>Whlile this webite under maintenance, You can Visit our Alt Server on <a
-                    href="https://cryptsence.net/">Cryptsence.net</a> Version</h3>
             <hr />
-            <a href="https://cryptsence.net/" class="btn btn-outline-theme px-3 rounded-pill"><i
-                    class="fa fa-arrow-left me-1 ms-n1"></i> Go to .net Version</a>
         </div>
         <!-- END error-page-content -->
     </div>
