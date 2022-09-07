@@ -37,12 +37,12 @@
                                 </li>
                                 <li>
                                     <p><strong>Application</strong> means the software program provided by the Company
-                                        downloaded by You on any electronic device, named Cryptsence</p>
+                                        downloaded by You on any electronic device, named cryptolagend</p>
                                 </li>
                                 <li>
                                     <p><strong>Company</strong> (referred to as either &quot;the Company&quot;,
                                         &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to
-                                        CRYPTSENCE ACADEMY LTD, 58 Nicholas Street, Chester, United Kingdom, CH1 2NP.</p>
+                                        cryptolagend ACADEMY LTD, 58 Nicholas Street, Chester, United Kingdom, CH1 2NP.</p>
                                 </li>
                                 <li>
                                     <p><strong>Cookies</strong> are small files that are placed on Your computer, mobile
@@ -76,9 +76,9 @@
                                         the duration of a page visit).</p>
                                 </li>
                                 <li>
-                                    <p><strong>Website</strong> refers to Cryptsence, accessible from <a
-                                            href="https://cryptsence.com" rel="external nofollow noopener"
-                                            target="_blank">https://cryptsence.com</a></p>
+                                    <p><strong>Website</strong> refers to cryptolagend, accessible from <a
+                                            href="https://cryptolagend.com" rel="external nofollow noopener"
+                                            target="_blank">https://cryptolagend.com</a></p>
                                 </li>
                                 <li>
                                     <p><strong>You</strong> means the individual accessing or using the Service, or the
@@ -337,13 +337,13 @@
                             <p>If you have any questions about this Privacy Policy, You can contact us:</p>
                             <ul>
                                 <li>
-                                    <p>By email: info@cryptsence.com</p>
+                                    <p>By email: info@cryptolagend.com</p>
                                 </li>
                                 <li>
                                     <p>By visiting this page on our website: <a
-                                            href="https://cryptsence.com/user/dashboard/support/support/create"
+                                            href="https://cryptolagend.com/user/dashboard/support/support/create"
                                             rel="external nofollow noopener"
-                                            target="_blank">https://cryptsence.com/user/dashboard/support/support/create</a>
+                                            target="_blank">https://cryptolagend.com/user/dashboard/support/support/create</a>
                                     </p>
                                 </li>
                                 <li>

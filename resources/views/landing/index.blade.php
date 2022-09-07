@@ -187,7 +187,7 @@
                     <div class="col-lg-6 col-md-12 Cyber-Security-right-con wow slideInRight">
                         <div class="Cyber-Security-right-heading-con">
                             <h5>Statistics</h5>
-                            <h2>Back Business of CryptSence
+                            <h2>Back Business of cryptolagend
                             </h2>
                             <p>We standby our motto "To inspire & nurture leaders of tomorrow" where we diligently focus on
                                 educating our members on the specifics knowledge of blockchain as well as cryptocurrency.

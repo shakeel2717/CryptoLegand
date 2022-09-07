@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Cryptsence best academy to learn & earn through cryptocurrency, Join Today">
+    <meta name="description" content="cryptolagend best academy to learn & earn through cryptocurrency, Join Today">
     <meta name="keywords" content="{{ env('APP_KEYWORDS') }}">
     <link rel="stylesheet" href="/landing/css/animate.css?v=1">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
@@ -66,7 +66,7 @@
                                 class="col-lg-7 col-md-7 col-sm-12 d-flex justify-content-center flex-column banner-main-left-con">
                                 <div class="banner-left-con wow slideInLeft">
                                     <div class="banner-heading">
-                                        <h1>Cryptsence best academy to learn & earn through cryptocurrency
+                                        <h1>cryptolagend best academy to learn & earn through cryptocurrency
                                         </h1>
                                     </div>
                                     <div class="banner-content">
@@ -123,10 +123,10 @@
                                 </div>
                                 <div class="weight-footer-item-content weight-footer-item-link ">
                                     <ul class="list-unstyled mb-0 social-icon-list">
-                                        <li class="d-inline-block mb-0"><a href="https://www.facebook.com/cryptsence"><i
+                                        <li class="d-inline-block mb-0"><a href="https://www.facebook.com/cryptolagend"><i
                                                     class="fab fa-facebook-f"></i></a></li>
                                         <li class="d-inline-block mb-0"><a
-                                                href="https://twitter.com/CRYPTSENCE?t=v__dlcpNRGlbTcMo7TUzGg&s=08"><i
+                                                href="https://twitter.com/cryptolagend?t=v__dlcpNRGlbTcMo7TUzGg&s=08"><i
                                                     class="fab fa-twitter"></i></a></li>
                                         <li class="d-inline-block mb-0"><a href="https://t.co/wjK4qKaDtX"><i
                                                     class="fab fa-instagram"></i></a></li>

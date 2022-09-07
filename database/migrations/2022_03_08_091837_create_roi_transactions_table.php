@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('status');
             $table->double('amount');
             $table->string('sum');
-            $table->string('reference')->default('Cryptsence');
+            $table->string('reference')->default('cryptolagend');
             $table->timestamps();
         });
     }

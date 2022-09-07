@@ -37,8 +37,6 @@ Route::prefix('user/dashboard')->name('user.')->middleware(['auth', 'user'])->gr
     Route::get('/statement/roi', [StatementController::class, 'roi'])->name('statement.roi');
     Route::get('/statement/roiWithdrawals', [StatementController::class, 'roiWithdrawals'])->name('statement.roi.withdrawals');
     Route::get('/statement/direct', [StatementController::class, 'direct'])->name('statement.direct');
-    Route::get('/statement/tour/dubai', [StatementController::class, 'tourDubai'])->name('statement.tour.dubai');
-    Route::get('/statement/tour/malaysia', [StatementController::class, 'tourMalaysia'])->name('statement.tour.malaysia');
     Route::get('/statement/indirect/award', [StatementController::class, 'indirectAward'])->name('statement.indirect.award');
     Route::get('/statement/inDirect', [StatementController::class, 'inDirect'])->name('statement.inDirect');
     Route::get('/statement/passive', [StatementController::class, 'passive'])->name('statement.passive');

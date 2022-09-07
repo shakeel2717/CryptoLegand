@@ -169,7 +169,7 @@ return [
             'to' => 'shakeel2717@gmail.com',
 
             'from' => [
-                'address' => env('MAIL_FROM_ADDRESS', 'info@cryptsence.io'),
+                'address' => env('MAIL_FROM_ADDRESS', 'info@cryptolagend.io'),
                 'name' => env('MAIL_FROM_NAME', 'Example'),
             ],
         ],
