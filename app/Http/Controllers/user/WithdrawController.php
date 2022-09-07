@@ -54,7 +54,7 @@ class WithdrawController extends Controller
         $method = $validatedData['method'];
 
         // sending email
-        // Mail::to($request->user())->send(new MailWithdraw($amount, $method, $address));
+        Mail::to($request->user())->send(new MailWithdraw($amount, $method, $address));
 
         return redirect()->route('user.dashboard')->with('message', 'Withdraw request has been sent');
     }
